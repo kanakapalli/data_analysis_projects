@@ -1,7 +1,7 @@
 # data_analysis_projects
 install pandas , numpy, seaborn, matplotlib with pip<br>
-#topics:
+#topics:<br>
 DATA ANALYSIS OF GOOGLE APP'S RATINGS<br>
-Data Cleaning
-Data Imputation and Manipulation
-Data Visualization
+Data Cleaning<br>
+Data Imputation and Manipulation<br>
+Data Visualization<br>
